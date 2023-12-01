@@ -1,5 +1,5 @@
 # Hi, Welcome to Nida's QA Portfolio :)
-H, I'm Nida!
+Motivated and detail-oriented individual who has experienced in manual testing and worked in agile environment. Seeking an entry-level position in Quality Assurance (QA) to leverage academic background and practical skills in software testing. Eager to contribute to a dynamic team and gain hands-on experience in ensuring product quality. 
 
 ## Test Cases and Bug Report
 ### :page_facing_up: Test Cases
