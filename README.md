@@ -19,3 +19,4 @@ Link to my workspace: [Workspace Nida](https://www.postman.com/nidaregitaf/works
 * [DummyJSON API Testing](https://www.postman.com/nidaregitaf/workspace/workspace-nida/collection/28066555-e06f0e23-0fa0-4a53-bb92-a2200e56413a?action=share&source=copy-link&creator=28066555)
 
 ## Cypress Testing
+* [Cypress - Freecodecamp Course](https://github.com/nidarf/Cypress-Freecodecamp-Course)
