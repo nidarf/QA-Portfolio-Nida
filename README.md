@@ -4,6 +4,7 @@ Motivated and detail-oriented individual who has experience in manual testing an
 ## Test Cases and Bug Report
 ### :page_facing_up: Test Cases
 * [Cura Healthcare Service](https://docs.google.com/spreadsheets/d/1fHDxNoBxPfygpm_QadWiDv7o8vGtO2XhPMR0UJdN__A/edit?usp=drive_link)
+* [Tokopedia Website - Cart Page](https://docs.google.com/spreadsheets/d/135XJPzcR5e-QNm83XK49MgYiFk4cqA8xI0f1H8NMp5Y/edit?usp=sharing)
 
 ### :lady_beetle: Bug Report
 * [KasirAja Bug Report Document](https://docs.google.com/document/d/10yUmFicX1Br_ryfZAIlZYqxtUrODMvV_bwY1LDMdBVU/edit?usp=sharing)
