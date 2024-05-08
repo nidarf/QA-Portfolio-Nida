@@ -20,4 +20,8 @@ Link to my workspace: [Workspace Nida](https://www.postman.com/nidaregitaf/works
 
 ## Cypress Testing
 * [Cypress - ToDo App Testing](https://github.com/nidarf/Cypress-ToDoApp)
+* [Cypress - Product's Review Form](https://github.com/nidarf/ReviewProductForm_Cypress)
 * [Cypress - Freecodecamp Course](https://github.com/nidarf/Cypress-Freecodecamp-Course)
+
+## Robot Selenium Testing
+* [Robot Framework - Kompas website](https://github.com/nidarf/RobotSelenium_Kompas)
